@@ -1,13 +1,13 @@
 #hero {
-    background-image: url("../images/bg-hero.jpg")
+    background-image: url("../images/tn_banner04.jfif")
 }
 
 #the-wedding-event {
-    background-image: url("../images/bg-the-wedding-event.jpg")
+    background-image: url("../images/tn_banner02.jfif")
 }
 
 #proposed {
-    background-image: url("../images/bg-proposed.jpg")
+    background-image: url("../images/banner03.png")
 }
 
 #wedding-gifts {
@@ -19,3 +19,18 @@ footer {
 }
 
 /*# sourceMappingURL=custom.min.css.map */
+
+
+
+
+#tn-gallery-01 {
+    max-width:  575px;
+    max-height: 863px;
+  
+}
+
+
+.vbox-child img[src="images/tn_gallery01.jpg"] {
+  max-width: 575px;
+    max-height: 863px;
+}
